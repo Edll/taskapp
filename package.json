@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng deploy --base-href=https://github.com/Edll/taskapp.git"
+    "deploy": "ng deploy --base-href=https://edll.github.io/taskapp/"
   },
   "private": true,
   "dependencies": {
